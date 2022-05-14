@@ -30,3 +30,15 @@ input{
 #Title{
   font-size: 300%;
 }
+
+#Title-room{
+  font-size: 150%;
+}
+
+#AccessPort {
+  border: solid;
+}
+
+#Chat {
+  border: 5px dotted;
+}
