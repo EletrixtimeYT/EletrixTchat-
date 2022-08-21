@@ -1,5 +1,11 @@
 # EletrixTchat-
 EletrixTchat Discover World
+Hello users of eletrixtchat
+Eletrixtchat is stopped
+All code is opensource
+2021-2022
+Thank You
+
 
 Website https://eletrixtchat.eletrixteck.repl.co
 
